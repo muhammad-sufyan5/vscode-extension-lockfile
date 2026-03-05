@@ -3,15 +3,15 @@
   "displayName": "Extension Lockfile",
   "description": "Lock and reproduce VS Code extension versions per workspace",
   "version": "0.0.2",
-  "publisher": "your-publisher-id",
+  "publisher": "sufyandev",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-org/extension-lockfile.git"
+    "url": "https://github.com/muhammad-sufyan5/vscode-extension-lockfile"
   },
-  "homepage": "https://github.com/your-org/extension-lockfile#readme",
+  "homepage": "https://github.com/muhammad-sufyan5/vscode-extension-lockfile?tab=readme-ov-file",
   "bugs": {
-    "url": "https://github.com/your-org/extension-lockfile/issues"
+    "url": "https://github.com/muhammad-sufyan5/vscode-extension-lockfile/issues"
   },
   "keywords": [
     "vscode",
